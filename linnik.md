@@ -22,6 +22,6 @@ In the present monograph we have striven to describe as thoroughly as possible t
 
 ...
 
-Ju.V. Linnik,
+Ju.V. Linnik, __*Decompositions of probability distributions*__, Izdat. Leningrad. Univ., Lenlngrad, 1960; English translation: Dover, New, York; Oliver & Boyd, London, 1964. 
 
 Ju.V. Linnik, I.V. Ostrovskii, __*Decomposition of Random Variables and Vectors*__, American Mathematical Society, 1977
