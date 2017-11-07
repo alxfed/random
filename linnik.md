@@ -6,13 +6,8 @@ Under what conditions is this sum exactly normal? It turns out that this is the 
 
 X = X1 +X2       (0.1) 
 
-Problem: given a random variable X, characterize the set of all its components as 
-thoroughly as possible. 
+Problem: given a random variable X, characterize the set of all its components as thoroughly as possible. 
 
-If the condition that Xl and X 2 be independent is dropped, the problem 
-becomes meaningless, since then Xl may be chosen arbitrarily and (0.1) will hold 
-with X2 = X - Xl. The independence condition may impose considerable re- 
-strictions on the form of the components. Thus, it follows from the above-men- 
-tioned result of Cramer that all the components of a normal variable are normal. 
+If the condition that Xl and X 2 be independent is dropped, the problem becomes meaningless, since then Xl may be chosen arbitrarily and (0.1) will hold with X2 = X - Xl. The independence condition may impose considerable restrictions on the form of the components. Thus, it follows from the above-mentioned result of Cramer that all the components of a normal variable are normal. 
 
 Ju.V. Linnik, I.V. Ostrovskii, __*Decomposition of Random Variables and Vectors*__, American Mathematical Society, 1977
