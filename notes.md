@@ -6,4 +6,5 @@ the statistical properties of numbers (how they converge and convolve).
 the distributions can be 'stable' if they are summable (divisible) >
 classes of distributions behaving like numbers >
 their 'arithmetic'.
-3. A vision of unities splitting in (p+q) and adding as links to a chain and the error function integral... Weierstrass.
+3. Independence, Kac and Viet formula.
+4. A vision of unities splitting in (p+q) and adding as links to a chain and the error function integral... Weierstrass.
